@@ -58,8 +58,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <QVBoxLayout>
 
 // PythonQt includes
-#include <PythonQt.h>
-#include <PythonQtObjectPtr.h>
+#include <PythonQt/PythonQt.h>
+#include <PythonQt/PythonQtObjectPtr.h>
 
 // CTK includes
 #include "ctkConsole.h"

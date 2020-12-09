@@ -26,8 +26,8 @@
 #include "ctkAbstractPythonManager.h"
 
 // PythonQT includes
-#include <PythonQt.h>
-#include <PythonQt_QtBindings.h>
+#include <PythonQt/PythonQt.h>
+#include <PythonQt/PythonQt_QtBindings.h>
 
 // STD includes
 #include <csignal>
